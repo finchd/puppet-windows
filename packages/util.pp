@@ -34,4 +34,10 @@ package { 'hashcheck':
   ensure => latest
 }
 
+package { 'ag':
+  ensure => latest
+}
 
+package { 'atom':
+  ensure => latest
+}
